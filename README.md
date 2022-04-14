@@ -89,3 +89,12 @@ Código do microcontrolador utilizado na placa do transmissor.
   
 * [Código do microcontrolador do robô](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_uc_robo/uc_robo):
 Código do microcontrolador utilizado na placa do robô jogador.
+
+# Contato
+[Site](https://www.gprufs.org/)
+  
+[Instragram](https://www.instagram.com/gpr.ufs/)
+
+[YouTube](https://www.youtube.com/user/GPRUFS)
+
+E-mail: gprufs@gmail.com
