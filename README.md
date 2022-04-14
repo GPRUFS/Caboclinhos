@@ -43,13 +43,49 @@ Estamos à disposição para tirar dúvidas de qualquer tipo sobre o nosso proje
 
 ## Arquivos do time CABOCLINHOS (futebol de robôs):  
   
-[Construção do robô](https://youtu.be/qsurFOQNwd4): Vídeo explicando o projeto e a montagem do robô.
+* [Construção do robô](https://youtu.be/qsurFOQNwd4): Vídeo explicando o projeto e a montagem do robô.
 
-[Eletrônica do time](https://youtu.be/QKlBNqYWyag): Vídeo explicando a eletrônica do robô e do transmissor.
+* [Eletrônica do time](https://youtu.be/QKlBNqYWyag): Vídeo explicando a eletrônica do robô e do transmissor.
 
-[Placas de circuito impresso](https://youtu.be/ILUnVGx_nII): Vídeo sobre o projeto da PCI do robô.
+* [Placas de circuito impresso](https://youtu.be/ILUnVGx_nII): Vídeo sobre o projeto da PCI do robô.
 
-[Programa de visão e controle](https://youtu.be/BXkn89mjHlg): Vídeos explicando o funcionamento dos programas de calibração de câmera e sua descrição, 
+* [Programa de visão e controle](https://youtu.be/BXkn89mjHlg): Vídeos explicando o funcionamento dos programas de calibração de câmera e sua descrição, 
 sistemas de visão, estratégia e controle do time Caboclinhos.
 
-[PlayList completa](https://youtube.com/playlist?list=PLJdW6TuhlgS99fa3KQWEpASK1FTdzH4Iw) Coletânea contendo todos os vídeos disponibilizados.
+* [PlayList completa](https://youtube.com/playlist?list=PLJdW6TuhlgS99fa3KQWEpASK1FTdzH4Iw): Coletânea contendo todos os vídeos disponibilizados.
+
+* [Documentação de Montagem](https://github.com/David1340/Caboclinhos/blob/main/caboclinhos_montagem.pdf):
+  Arquivo explicando os detalhes sobre a construção e montagem da estrutura base dos robôs jogadores.
+  
+* [Documentação da Eletrônica](https://github.com/David1340/Caboclinhos/blob/main/caboclinhos_eletronica.pdf): Arquivo explicando os detalhes sobre a
+eletrônica dos robôs e do transmissor.
+  
+* [Documentação da IDE](https://github.com/David1340/Caboclinhos/blob/main/caboclinhos_instalacao_qt.pdf): Arquivo explicando como instalar e utilizar o QT com
+o compilador MinGW e o OpenCV, plataforma na qual foi desenvolvido o sistema de visão e controle do nosso time.
+  
+* [Documentação do Executável](https://github.com/David1340/Caboclinhos/blob/main/caboclinhos_executavel.pdf): Arquivo explicando como utilizar a versão
+executável do sistema de visão e controle do nosso time.
+  
+* [Códigos dos programas de visão e controle (PC)](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_visao_controle_codigos/VisionSystem_Codigo): 
+Códigos dos programas de calibração de imagem, sistema de visão, comunicação e controle utilizados pela equipe Caboclinhos.
+  
+* [Executável dos programas de visão e controle (PC)](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_visao_controle_executavel/release%20-%20Copia): 
+Versão executável dos programas de calibração de imagem, sistema de visão, comunicação e controle utilizados pela equipe Caboclinhos.
+  
+* [Programa para teste de comunicação](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_matlab_teste_comunicacao/caboclinhos_matlab_teste_comunicacao): 
+Programa desenvolvido em Matlab para testar a comunicação entre o computador e os robôs sem precisar do sistema de visão.
+  
+* [Projeto das placas de acrílico](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_acrilico): 
+Projeto das peças da estrutura do robô. O projeto está em Corel X6.
+  
+* [Projeto da PCI do transmissor](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_pci_transmissor/placas%20do%20transmissor):
+Dois projetos da PCI do transmissor, um para cada modelo de rádio indicado na documentação da eletrônica.
+  
+* [Projeto da PCI do robô](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_pci_robo/Placas%20dos%20jogadores):
+Dois projetos da PCI do robô jogador, um para cada modelo de rádio indicado na documentação da eletrônica.
+  
+* [Código do microcontrolador do transmissor](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_uc_transmissor/uc_transmissor):
+Código do microcontrolador utilizado na placa do transmissor.
+  
+* [Código do microcontrolador do robô](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_uc_robo/uc_robo):
+Código do microcontrolador utilizado na placa do robô jogador.
