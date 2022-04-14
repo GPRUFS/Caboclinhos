@@ -2,7 +2,6 @@
 Repositório do time de Futebol de robôs Caboclinhos da categoria IEEE Very Small Size Soccer da Competição Latino Americana de Robótica (LARC).
 
 # Sobre o time caboclinhos
-
 <p align="justify">
 O futebol de robôs, enquanto linha de pesquisa, representa uma área desafiadora por seu caráter multidisciplinar, desenvolvido em um ambiente dinâmico e de elevada
 complexidade. Por outro lado, a junção do futebol, um dos esportes mais praticados do mundo, e da robótica, presente noimaginário popular há décadas, faz do futebol 
@@ -64,23 +63,23 @@ eletrônica dos robôs e do transmissor.
 o compilador MinGW e o OpenCV, plataforma na qual foi desenvolvido o sistema de visão e controle do nosso time.
   
 * [Documentação do Executável](https://github.com/David1340/Caboclinhos/blob/main/caboclinhos_executavel.pdf): Arquivo explicando como utilizar a versão
-executável do sistema de visão e controle do nosso time.
-  
-* [Códigos dos programas de visão e controle (PC)](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_visao_controle_codigos/VisionSystem_Codigo): 
+executável do sistema de visão e controle do nosso time. 
+    
+*  [Códigos dos programas de visão e controle (PC)](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_visao_controle_codigos/VisionSystem_Codigo): 
 Códigos dos programas de calibração de imagem, sistema de visão, comunicação e controle utilizados pela equipe Caboclinhos.
   
 * [Executável dos programas de visão e controle (PC)](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_visao_controle_executavel/release%20-%20Copia): 
 Versão executável dos programas de calibração de imagem, sistema de visão, comunicação e controle utilizados pela equipe Caboclinhos.
-  
+ 
 * [Programa para teste de comunicação](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_matlab_teste_comunicacao/caboclinhos_matlab_teste_comunicacao): 
 Programa desenvolvido em Matlab para testar a comunicação entre o computador e os robôs sem precisar do sistema de visão.
-  
+   
 * [Projeto das placas de acrílico](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_acrilico): 
 Projeto das peças da estrutura do robô. O projeto está em Corel X6.
-  
+
 * [Projeto da PCI do transmissor](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_pci_transmissor/placas%20do%20transmissor):
 Dois projetos da PCI do transmissor, um para cada modelo de rádio indicado na documentação da eletrônica.
-  
+ 
 * [Projeto da PCI do robô](https://github.com/David1340/Caboclinhos/tree/main/caboclinhos_pci_robo/Placas%20dos%20jogadores):
 Dois projetos da PCI do robô jogador, um para cada modelo de rádio indicado na documentação da eletrônica.
   
