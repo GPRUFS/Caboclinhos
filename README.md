@@ -6,7 +6,7 @@
 # Caboclinhos
 Repositório do time de Futebol de robôs Caboclinhos da categoria IEEE Very Small Size Soccer da Competição Latino Americana de Robótica (LARC).
 
-# Sobre o time caboclinhos
+# Sobre o time Caboclinhos
 <p align="justify">
 O futebol de robôs, enquanto linha de pesquisa, representa uma área desafiadora por seu caráter multidisciplinar, desenvolvido em um ambiente dinâmico e de elevada
 complexidade. Por outro lado, a junção do futebol, um dos esportes mais praticados do mundo, e da robótica, presente noimaginário popular há décadas, faz do futebol 
