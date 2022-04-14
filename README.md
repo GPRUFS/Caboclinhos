@@ -1,3 +1,8 @@
+<div align= "center">
+<img src="https://user-images.githubusercontent.com/71639876/163296688-b56f6fab-9363-4548-bdaa-d4dffa004aeb.png" width="1000px" />
+</div>
+
+
 # Caboclinhos
 Repositório do time de Futebol de robôs Caboclinhos da categoria IEEE Very Small Size Soccer da Competição Latino Americana de Robótica (LARC).
 
