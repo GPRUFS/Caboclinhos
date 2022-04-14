@@ -1,0 +1,86 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+004     @WRITE_PROGRAM_MEMORY8.P2
+00B     INTCON
+015     CCP_1
+015     CCP_1_LOW
+016     CCP_1_HIGH
+01B     CCP_2_LOW
+01B     CCP_2
+01C     CCP_2_HIGH
+020     @SCRATCH
+021     @SCRATCH
+021     _RETURN_
+022     @SCRATCH
+023     @SCRATCH
+024     @INTERRUPT_AREA
+025     @INTERRUPT_AREA
+026     @INTERRUPT_AREA
+027     @INTERRUPT_AREA
+028     @INTERRUPT_AREA
+029     @INTERRUPT_AREA
+02A     @INTERRUPT_AREA
+02B     @INTERRUPT_AREA
+02C-02D espera_ack
+02E.0   ack
+02E.1   CANAL_NUM
+02F-038 RECEBE
+039-042 ENVIA
+043     @TRIS_C
+044     @delay_ms1.P1
+044     envia_dados.i
+044     config_nrf24.@SCRATCH1
+045     envia_dados.status
+046     envia_dados.@SCRATCH1
+047     recebe_dados.i
+048     recebe_dados.status
+049     recebe_dados.@SCRATCH1
+085     TRISA
+086     TRISB
+087     TRISC
+09C.6   C1OUT
+09C.7   C2OUT
+10D-10E @WRITE_PROGRAM_MEMORY8.P1
+10D-10E @READ_PROGRAM_MEMORY8.P2
+
+ROM Allocation:
+000031  interrupcao
+000031  recebe_dados
+0000A5  config_nrf24
+000258  @delay_ms1
+000280  envia_dados
+000388  MAIN
+000388  @cinit1
+00039C  @cinit2
+
+Project Directory:
+    C:\Users\Lucas\Dropbox\Projeto VerySmall 2015\Jogadores\Codigo final 1\TX\
+
+Project Files:
+    main.c                                                  [28-jul-15 17:28  CRC=F7D0B11E]
+    ..\..\..\..\..\..\..\Program Files (x86)\PICC\Devices\16F873A.h [12-nov-13 14:35  CRC=4CB28E1D]
+    NRF24L01P.c                                             [29-jul-15 18:20  CRC=7FA0A975]
+
+Source signature=43C49225
+
+Units:
+    main (main)
+
+Compiler Settings:
+    Processor:      PIC16F873A
+    Pointer Size:   8
+    ADC Range:      0-255
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    XREF file:   main.xsym
+    Errors:      main.err
+    Ext Symbols: main.esym
+    INHX8:       main.hex
+    Symbols:     main.sym
+    List:        main.lst
+    Debug/COFF:  main.cof
+    Project:     main.ccspjt
+    Call Tree:   main.tre
+    Statistics:  main.STA

@@ -1,0 +1,9 @@
+ÀÄmain
+   ÃÄMAIN  0/385  Ram=1
+   ³  ÃÄ@cinit1  (Inline)  Ram=0
+   ³  ÃÄconfig_nrf24  0/458  Ram=1
+   ³  ³  ÀÄ@delay_ms1  0/19  Ram=1
+   ³  ÃÄ@delay_ms1  0/19  Ram=1
+   ³  ÀÄ@delay_ms1  0/19  Ram=1
+   ÀÄinterrupcao  0/116  Ram=0
+      ÀÄrecebe_dados  (Inline)  Ram=3

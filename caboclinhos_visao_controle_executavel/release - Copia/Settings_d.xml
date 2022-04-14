@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Camera_Settings>
+  <Brightness>138</Brightness>
+  <Saturation>200</Saturation>
+  <Exposure>-10</Exposure>
+  <Contrast>10</Contrast></Camera_Settings>
+<Cut_Frame_Points>
+  <X>334</X>
+  <Y>129</Y>
+  <Width>607</Width>
+  <Height>466</Height></Cut_Frame_Points>
+<Blue>
+  <Red_Max>25</Red_Max>
+  <Red_Min>0</Red_Min>
+  <Green_Max>119</Green_Max>
+  <Green_Min>0</Green_Min>
+  <Blue_Max>255</Blue_Max>
+  <Blue_Min>83</Blue_Min></Blue>
+<Yellow>
+  <Red_Max>255</Red_Max>
+  <Red_Min>161</Red_Min>
+  <Green_Max>255</Green_Max>
+  <Green_Min>112</Green_Min>
+  <Blue_Max>75</Blue_Max>
+  <Blue_Min>0</Blue_Min></Yellow>
+<Orange>
+  <Red_Max>255</Red_Max>
+  <Red_Min>106</Red_Min>
+  <Green_Max>112</Green_Max>
+  <Green_Min>0</Green_Min>
+  <Blue_Max>4</Blue_Max>
+  <Blue_Min>0</Blue_Min></Orange>
+<Green>
+  <Red_Max>111</Red_Max>
+  <Red_Min>0</Red_Min>
+  <Green_Max>255</Green_Max>
+  <Green_Min>103</Green_Min>
+  <Blue_Max>88</Blue_Max>
+  <Blue_Min>0</Blue_Min></Green>
+<Red>
+  <Red_Max>255</Red_Max>
+  <Red_Min>156</Red_Min>
+  <Green_Max>106</Green_Max>
+  <Green_Min>3</Green_Min>
+  <Blue_Max>185</Blue_Max>
+  <Blue_Min>1</Blue_Min></Red>
+<Magenta>
+  <Red_Max>161</Red_Max>
+  <Red_Min>21</Red_Min>
+  <Green_Max>255</Green_Max>
+  <Green_Min>100</Green_Min>
+  <Blue_Max>255</Blue_Max>
+  <Blue_Min>175</Blue_Min></Magenta>
+<Mascara>
+  <Format>1</Format>
+  <Size>3</Size>
+  <Size_close>6</Size_close></Mascara>
+<Resolution>
+  <Width>1280</Width>
+  <index>4</index>
+  <Height>720</Height></Resolution>
+<Variaveis>
+  <ftop>8</ftop>
+  <fbot>459</fbot>
+  <gtopy>161</gtopy>
+  <gboty>303</gboty>
+  <fleftx>43</fleftx>
+  <frightx>566</frightx>
+  <gleft>6</gleft>
+  <gright>602</gright>
+  <area_left>98</area_left>
+  <area_right>510</area_right>
+  <lgoleiro>550</lgoleiro>
+  <lzagueiro>441</lzagueiro>
+  <area_topy>354</area_topy>
+  <area_boty>110</area_boty>
+  <p_area_b>271</p_area_b>
+  <p_area_t>194</p_area_t>
+  <max_linha>466</max_linha>
+  <max_coluna>607</max_coluna></Variaveis>
+<Parametros>
+  <Smin>0</Smin>
+  <Smax>200</Smax>
+  <S_Enable>1</S_Enable>
+  <Bmin>30</Bmin>
+  <Bmax>255</Bmax>
+  <B_Enable>1</B_Enable>
+  <Cmin>0</Cmin>
+  <Cmax>10</Cmax>
+  <C_Enable>1</C_Enable>
+  <Emin>-11</Emin>
+  <Emax>1</Emax>
+  <E_Enable>1</E_Enable>
+  <index_max>7</index_max></Parametros>
+</opencv_storage>

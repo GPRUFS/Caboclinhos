@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icone">
+        <file>imagens/oie_transparent.png</file>
+    </qresource>
+</RCC>
